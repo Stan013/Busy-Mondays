@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AssessIncident" size="0.020000 0.028152" />
+    <ImageTarget name="IcePack" size="0.020000 0.028658" />
+    <ImageTarget name="Elevate" size="0.020000 0.028658" />
+    <ImageTarget name="StabilizeLimb" size="0.020000 0.028658" />
+    <ImageTarget name="ContactHospital" size="0.020000 0.028658" />
+    <ImageTarget name="ExaminePain" size="0.020000 0.028152" />
+    <ImageTarget name="VictimInteraction" size="0.020000 0.028152" />
+    <ImageTarget name="MovementAbility" size="0.020000 0.028152" />
+    <ImageTarget name="FaceInspection" size="0.020000 0.028152" />
+    <ImageTarget name="VerbalCheck" size="0.020000 0.028152" />
+    <ImageTarget name="AntibioticOintment" size="0.020000 0.028152" />
+    <ImageTarget name="Painkillers" size="0.020000 0.028152" />
+    <ImageTarget name="CoverArea" size="0.020000 0.028152" />
+    <ImageTarget name="CleanBurn" size="0.020000 0.028152" />
+    <ImageTarget name="CoolSkin" size="0.020000 0.028152" />
+    <ImageTarget name="DetermineSeverity" size="0.020000 0.028665" />
+    <ImageTarget name="ObserveWound" size="0.020000 0.028665" />
+    <ImageTarget name="StomachThrusts" size="0.020000 0.028665" />
+    <ImageTarget name="BackBlows" size="0.020000 0.028665" />
+    <ImageTarget name="StimulateCoughing" size="0.020000 0.028665" />
+    <ImageTarget name="IdentifySituation" size="0.020000 0.028665" />
+    <ImageTarget name="PerformCPR" size="0.020000 0.028665" />
+    <ImageTarget name="PreventChoking" size="0.020000 0.028665" />
+    <ImageTarget name="LayFlat" size="0.020000 0.028665" />
+    <ImageTarget name="ProvideMeal" size="0.020000 0.028304" />
+    <ImageTarget name="EpiPenInjection" size="0.020000 0.028304" />
+    <ImageTarget name="SugaryDrink" size="0.020000 0.028304" />
+    <ImageTarget name="MinimizeActivity" size="0.020000 0.028304" />
+    <ImageTarget name="InspectVictim" size="0.020000 0.028304" />
+    <ImageTarget name="SurveyVictim" size="0.020000 0.028304" />
+    <ImageTarget name="CheckVitals" size="0.020000 0.028304" />
+    <ImageTarget name="ApplyPressure" size="0.020000 0.028304" />
+    <ImageTarget name="HoldSteady" size="0.020000 0.028304" />
+    <ImageTarget name="PreventMovement" size="0.020000 0.028304" />
+    <ImageTarget name="LocateInjuries" size="0.020000 0.028304" />
+    <ImageTarget name="EvaluateVictim" size="0.020000 0.028304" />
+    <ImageTarget name="CheckImpact" size="0.020000 0.028304" />
+    <ImageTarget name="InformVictim" size="0.020000 0.028152" />
+    <ImageTarget name="OptimizeBreathing" size="0.020000 0.028152" />
+    <ImageTarget name="HeadProtection" size="0.020000 0.028152" />
+    <ImageTarget name="InjuryPrevention" size="0.020000 0.028152" />
+    <ImageTarget name="EmergencyServices" size="0.020000 0.028152" />
+    <ImageTarget name="BreathingCheck" size="0.020000 0.028152" />
+    <ImageTarget name="OddMotions" size="0.020000 0.028152" />
+    <ImageTarget name="Responsiveness" size="0.020000 0.028152" />
+  </Tracking>
+</QCARConfig>
